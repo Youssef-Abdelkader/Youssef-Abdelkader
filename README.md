@@ -69,13 +69,4 @@ pie
 - 📱 Built **7+ production-ready apps** across Android/iOS/Flutter  
 - 🔥 Expertise in **Jetpack Compose**, **SwiftUI**, and **Flutter Bloc**  
 
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Abdelkader&theme=radical" alt="GitHub Streak"/>
-</div>
-
----
-
-</div>
 
