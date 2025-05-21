@@ -70,13 +70,16 @@
   <img src="https://img.shields.io/badge/OOP-FF6D00?style=for-the-badge&logo=oop&logoColor=white" alt="OOP"/>
   <img src="https://img.shields.io/badge/SOLID-5E17EB?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID"/>
   <img src="https://img.shields.io/badge/REST_API-FF6D00?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/MVVM-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVVM"/>
-  <img src="https://img.shields.io/badge/MVP-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVP"/>
-  <img src="https://img.shields.io/badge/MVC-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVC"/>
   <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/>
   <img src="https://img.shields.io/badge/Unit_Testing-388E3C?style=for-the-badge&logo=testing-library&logoColor=white" alt="Unit Testing"/>
 </p>
 
+### **Design Patterns**
+<p align="center">
+ <img src="https://img.shields.io/badge/MVVM-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/MVP-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVP"/>
+  <img src="https://img.shields.io/badge/MVC-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVC"/>
+  </p>
 ---
 
 ## 💻 **Top Languages**
@@ -86,8 +89,8 @@ pie
     title Code Distribution
     "Kotlin" : 90
     "Java" : 90
-    "Swift" : 60
-    "Dart" : 80
+    "Swift" : 30
+    "Dart" : 50
 ```
 
 ---
