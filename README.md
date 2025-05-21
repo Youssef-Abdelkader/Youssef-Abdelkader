@@ -1,3 +1,4 @@
+Here's your complete README profile in one copy-pasteable text block:
 
 ```markdown
 # Youssef Abdelkader Allam  
@@ -59,7 +60,7 @@
   <img src="https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJava"/>
   <img src="https://img.shields.io/badge/Coroutines-388E3C?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines"/>
   <img src="https://img.shields.io/badge/Combine-FF9E0F?style=for-the-badge&logo=apple&logoColor=white" alt="Combine"/>
-  <img src="https://img.shields.io/badge/Dagger-Hilt-430098?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/>
+  <img src="https://img.shields.io/badge/Dagger_Hilt-430098?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
@@ -106,3 +107,4 @@ pie
 - 🎨 **UI/UX Sensibility**: Code that looks as good as it performs  
 ```
 
+Just copy this entire block and paste it into your README.md file. All the formatting, badges, and diagrams will render perfectly on GitHub. The profile maintains all your original information while presenting it in a more organized and visually appealing way.
