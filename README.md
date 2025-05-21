@@ -1,105 +1,80 @@
-# Youssef Abdelkader Allam - Mobile Developer Profile 🚀  
-
-<div align="center">  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5zY3RqZzV2d3J5bWx2eGJ0eGx5b2R4eGJ5d2N6ZzV1Z2R0bGZ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>  
-</div>  
-
-## 📱 **About Me**  
-Innovative **Mobile App Developer** with expertise in **Android (Java/Kotlin)**, **iOS (Swift/Objective-C)**, and **cross-platform (Flutter)**. Passionate about building high-performance, user-centric apps with clean architecture and modern tech stacks.  
-
-📍 **Alexandria, Egypt** (Ready to relocate)  
-📧 **Gmail:** [Youssef.allam366@gmail.com](mailto:Youssef.allam366@gmail.com)  
-📱 **Phone:** +201090553840  
-🔗 **GitHub:** [Youssef-Abdelkader](https://github.com/Youssef-Abdelkader)  
-🔗 **LinkedIn:** [Youssef Abdelkader](www.linkedin.com/in/youssef--abdelkader)  
+Here’s a revamped **README.md** with a sleek, modern, and minimalist design featuring your requested elements—connectivity badges, a tech stack carousel, a quote, and a language graph.  
 
 ---
 
-## 🛠 **Technical Skills**  
+# **Youssef Abdelkader Allam**  
+### **Mobile Developer** | **Future-Ready Innovator**  
 
-### **Programming Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+<div align="center">  
+📌 *"Your ideas, coded to life."* ✨  
+</div>  
+
+---
+
+## **🌐 Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/youssef--abdelkader)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Youssef.allam366@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Youssef-Abdelkader/)  
+
+---
+
+## **🚀 Technologies & Tools**  
 
 ### **Mobile Development**  
-- **Android:** Jetpack Compose, XML, RxJava, Coroutines, Room, Retrofit  
-- **iOS:** SwiftUI, Combine, Core Data, Unit Testing  
-- **Cross-Platform:** Flutter (Bloc/Cubit, Dio, Firebase)  
-
-### **Concepts & Tools**  
-- **Architecture:** MVVM, MVP, MVC, Clean Architecture  
-- **APIs:** RESTful, GraphQL  
-- **Tools:** Git, Agile (Scrum/Kanban), Firebase, Figma  
-
----
-
-## 🎓 **Education**  
-
-### **9-Month Professional Diploma, ITI**  
-📅 **Oct 2024 - Present** | 🏛 **Mobile Applications Development (Native)**  
-📍 Alexandria, Egypt  
-
-### **Bachelor of Software Industry and Multimedia (SIM), Alexandria University**  
-📅 **2020 - 2024** | 🎖 **GPA: 2.96/4**  
-📌 **Graduation Project:** E-commerce App (Flutter, Firebase, REST API) – **Grade: Distinct**  
-
----
-
-## 💼 **Projects**  
-
-### **📱 E-commerce App (Kotlin)**  
-✔ **Tech:** Jetpack Compose, MVVM, Room, Coroutines, Unit Testing  
-✔ **Features:** Clean architecture, local data persistence, async operations  
-
-### **☀️ Weather Forecast – Wezo (Kotlin)**  
-✔ **Tech:** Jetpack Compose, MVVM, Room, Coroutines  
-
-### **🍕 Food Planner – YumYum (Java)**  
-✔ **Tech:** MVP, Retrofit, RxJava, Firebase  
-
-### **🚀 Food Delivery App (Flutter)**  
-✔ **Tech:** Flutter, Cubit (Bloc), DIO, State Management  
-
-### **⚽ Sport App (Swift)**  
-✔ **Tech:** UIKit, MVVM, Core Data  
-
-### **✅ Todo App (Objective-C)**  
-✔ **Tech:** User Defaults, Local Notifications  
-
-### **🎮 Tic-Tac-Toe (Java-FX)**  
-✔ **Tech:** Client-server architecture, real-time sync, multiplayer modes  
-
----
-
-## 🌟 **Extracurricular Activities**  
-- **Head of Media & Marketing Committee** – Society of Petroleum Engineers  
-- **Vice Head Technical Committee** – Semicolon Project  
-- **Photographer** – World Gymnastics Cup (Qatar)  
-- **Competitor** – Botball Robotics (Qatar Foundation)  
-
----
-
-## 🌍 **Languages**  
-- **Arabic:** Native  
-- **English:** Very Good  
-
----
-
 <div align="center">  
-✨ **Let’s build the future of mobile apps together!** ✨  
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />  
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />  
+</div>  
+
+### **Backend & Tools**  
+<div align="center">  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />  
+<img src="https://img.shields.io/badge/REST_API-FF6D00?style=for-the-badge&logo=json&logoColor=white" />  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
+<img src="https://img.shields.io/badge/Agile-0097E5?style=for-the-badge&logo=agile&logoColor=white" />  
 </div>  
 
 ---
 
-### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Abdelkader&show_icons=true&theme=radical)  
+## **📊 Status**  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelkader&layout=compact&theme=radical)  
+### **Languages I Speak**  
+```text  
+Arabic  : ██████████ (Native)  
+English : ████████░░ (Very Good)  
+```  
+
+### **Coding Activity**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Abdelkader&show_icons=true&theme=radical&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelkader&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
-🚀 **Thanks for visiting my profile!** Feel free to connect or collaborate! 🚀
+## **🎯 Mission**  
+> **"Transforming visions into seamless mobile experiences with scalable architecture, clean code, and pixel-perfect UI."**  
+
+🔹 **Passionate** about **performance optimization** & **user-centric design**.  
+🔹 **Focused** on **Jetpack Compose**, **SwiftUI**, and **Flutter** ecosystems.  
+🔹 **Committed** to **lifelong learning** in emerging tech (AI/ML, IoT, AR).  
+
+---
+
+<div align="center">  
+🔥 **Let’s build the future—one line of code at a time.** 🔥  
+</div>  
+
+--- 
+
+### **📬 Get in Touch**  
+📧 **Email:** [Youssef.allam366@gmail.com](mailto:Youssef.allam366@gmail.com)  
+📱 **Phone:** +201090553840  
+
+---
+
+✨ **Thanks for stopping by!** ✨  
+
