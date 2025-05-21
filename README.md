@@ -1,24 +1,16 @@
-```markdown
 # Youssef Abdelkader Allam  
-### <span id="typewriter"></span> 🔥  
+### ✨ *"Your ideas, coded to life."* ✨  
 `Mobile Developer` | `Tech Innovator` | `Cross-Platform Expert`  
 
-```javascript
-// Animated typing effect for "Your ideas, coded to life"
-const typewriter = document.getElementById('typewriter');
-const text = "Your ideas, coded to life.";
-let i = 0;
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Your+ideas%2C+coded+to+life." alt="Typing animation" />
+</p>
 
-function typeWriter() {
-  if (i < text.length) {
-    typewriter.innerHTML += text.charAt(i);
-    i++;
-    setTimeout(typeWriter, 100);
-  }
-}
-typeWriter();
-```
-
+## 🌟 Connect With Me
+[... rest of your README ...]
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Youssef-Abdelkader&color=blueviolet" alt="Profile Views"/>
+  <br/>
 ## 🌟 **Connect With Me**  
 <p align="center">
   <a href="http://www.linkedin.com/in/youssef--abdelkader" target="_blank">
@@ -85,25 +77,5 @@ pie
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Youssef-Abdelkader&color=blueviolet" alt="Profile Views"/>
-  <br/>
-  <em>✨ Turning coffee into code since 2020 ✨</em>
 </div>
-```
 
-### **Key Features:**  
-1. **Animated Typing Effect** - "Your ideas, coded to life" appears letter-by-letter  
-2. **Interactive Pie Chart** - Visualizes your top programming languages  
-3. **Dynamic Badges** - Modern tech stack visualization with hover effects  
-4. **GitHub Streak Stats** - Shows your coding consistency  
-5. **View Counter** - Tracks profile visitors automatically  
-
-### **How to Use:**  
-1. Copy this entire markdown  
-2. Paste into your GitHub README.md file  
-3. For the typing effect to work, you'll need to:  
-   - Create a `script.js` file with the provided JavaScript  
-   - Add this to your GitHub Pages or personal website  
-
-Want me to adjust any colors/animations? 🎨 Let me know!
