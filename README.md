@@ -19,6 +19,9 @@
   <a href="mailto:Youssef.allam366@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/Youssef-Abdelkader" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.hackerrank.com/profile/allamyoussef360" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
@@ -81,9 +84,3 @@ pie
     "Java" : 90
     "Swift" : 60
     "Dart" : 80
-🎯 Career Highlights
-<div align="center">
-🚀	ITI Professional Diploma in Mobile Development	*(Oct 2024 - Present)*
-🏆	BSc in Computer Science	*(2020 - 2024)*
-📱	Built 7+ production-ready apps across Android/iOS/Flutter	
-</div>
