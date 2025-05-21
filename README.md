@@ -84,14 +84,11 @@
 
 ## 💻 **Top Languages**
 
-```mermaid
-pie
-    title Code Distribution
-    "Kotlin" : 95
-    "Java" : 90
-    "Swift" : 60
-    "Dart" : 80
-```
+## 💻 Most Used Languages (Auto-Updated)
+<!-- GitHub README Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelkader&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=README.md" alt="Top Languages"/>
+</p>
 
 ---
 ## 🌟 Connect With Me
