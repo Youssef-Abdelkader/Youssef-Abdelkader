@@ -2,7 +2,7 @@
 
 `Mobile Application Developer` | `Tech Innovator` 
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Your+ideas%2C+coded+to+life." alt="Typing animation" />
 </p>
 
