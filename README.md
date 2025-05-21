@@ -1,6 +1,6 @@
 # Youssef Abdelkader Allam
 
-`Mobile Developer` | `Tech Innovator` | `Cross-Platform Expert`
+`Mobile Developer` | `Tech Innovator` 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Your+ideas%2C+coded+to+life." alt="Typing animation" />
@@ -11,23 +11,20 @@
 </p>
 
 ---
+## ✨ What Makes Me Unique
 
-## 🌟 Connect With Me
+- 🧠 **Problem-Solver:** Turn complex ideas into elegant mobile solutions  
+- 🔄 **Cross-Platform Mindset:** Build once, deploy everywhere philosophy  
+- 🚀 **Tech Explorer:** Constantly learning bleeding-edge mobile technologies  
+- 🎨 **UI/UX Sensibility:** Code that looks as good as it performs  
 
-<p align="center">
-  <a href="http://www.linkedin.com/in/youssef--abdelkader" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:Youssef.allam366@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Youssef-Abdelkader" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/allamyoussef360" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-</p>
+---
+
+## 🎯 Career Highlights
+
+- 🚀 **ITI Professional Diploma in Mobile Development** *(Oct 2024 - Present)*  
+- 🏆 **BSc in Computer Science** *(2020 - 2024)*  
+- 📱 *Built 7+ production-ready apps across Android/iOS/Flutter*  
 
 ---
 
@@ -94,18 +91,16 @@ pie
 ```
 
 ---
+## 🌟 Connect With Me
 
-## ✨ What Makes Me Unique
-
-- 🧠 **Problem-Solver:** Turn complex ideas into elegant mobile solutions  
-- 🔄 **Cross-Platform Mindset:** Build once, deploy everywhere philosophy  
-- 🚀 **Tech Explorer:** Constantly learning bleeding-edge mobile technologies  
-- 🎨 **UI/UX Sensibility:** Code that looks as good as it performs  
-
----
-
-## 🎯 Career Highlights
-
-- 🚀 **ITI Professional Diploma in Mobile Development** *(Oct 2024 - Present)*  
-- 🏆 **BSc in Computer Science** *(2020 - 2024)*  
-- 📱 *Built 7+ production-ready apps across Android/iOS/Flutter*  
+<p align="center">
+  <a href="http://www.linkedin.com/in/youssef--abdelkader" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:Youssef.allam366@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/allamyoussef360" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+</p>
