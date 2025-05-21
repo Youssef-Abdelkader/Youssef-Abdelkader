@@ -1,7 +1,3 @@
-Here’s a revamped **README.md** with a sleek, modern, and minimalist design featuring your requested elements—connectivity badges, a tech stack carousel, a quote, and a language graph.  
-
----
-
 # **Youssef Abdelkader Allam**  
 ### **Mobile Developer** | **Future-Ready Innovator**  
 
