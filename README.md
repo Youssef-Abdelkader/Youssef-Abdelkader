@@ -87,28 +87,3 @@ pie
 🏆	BSc in Computer Science	*(2020 - 2024)*
 📱	Built 7+ production-ready apps across Android/iOS/Flutter	
 </div>
-flowchart LR
-    A[Android] --> B[Jetpack Compose]
-    A --> C[XML]
-    A --> D[RxJava]
-    A --> E[Coroutines]
-    A --> F[Dagger Hilt]
-    
-    G[iOS] --> H[SwiftUI]
-    G --> I[Combine]
-    G --> J[RxSwift]
-    G --> K[Dependency Injection]
-    
-    L[Cross-Platform] --> M[Flutter]
-    L --> N[Firebase]
-    L --> O[Dart]
-    
-    P[Core Concepts] --> Q[OOP]
-    P --> R[SOLID]
-    P --> S[REST APIs]
-    P --> T[Data Structures]
-    P --> U[Design Patterns]
-    
-    V[Methodologies] --> W[Agile]
-    V --> X[CI/CD]
-    V --> Y[Unit Testing]
