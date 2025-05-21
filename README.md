@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/MVP-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVP"/>
   <img src="https://img.shields.io/badge/MVC-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVC"/>
   </p>
----
+
 
 ## 💻 **Top Languages**
 
