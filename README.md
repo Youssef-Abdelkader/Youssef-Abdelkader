@@ -83,11 +83,9 @@
 
 
 ## 💻 Most Used Languages
-<!-- GitHub README Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelkader&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=README.md" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelkader&hide=html,css,scss,less,jupyter%20notebook&layout=compact&theme=radical&langs_count=6&exclude_repo=README.md" alt="Top Languages"/>
 </p>
-
 ---
 ## 🌟 Connect With Me
 
