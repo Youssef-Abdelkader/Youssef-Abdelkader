@@ -92,16 +92,17 @@ pie
 
 ## ✨ What Makes Me Unique
 
-* 🧠 **Problem-Solver**: Turn complex ideas into elegant mobile solutions
-* 🔄 **Cross-Platform Mindset**: Build once, deploy everywhere philosophy
-* 🚀 **Tech Explorer**: Constantly learning bleeding-edge mobile technologies
-* 🎨 **UI/UX Sensibility**: Code that looks as good as it performs
-
----
+<div align="left">
+  <p>🧠 <strong>Problem-Solver:</strong> Turn complex ideas into elegant mobile solutions</p>
+  <p>🔄 <strong>Cross-Platform Mindset:</strong> Build once, deploy everywhere philosophy</p>
+  <p>🚀 <strong>Tech Explorer:</strong> Constantly learning bleeding-edge mobile technologies</p>
+  <p>🎨 <strong>UI/UX Sensibility:</strong> Code that looks as good as it performs</p>
+</div>
 
 ## 🎯 Career Highlights
 
-* 🚀 **ITI Professional Diploma in Mobile Development** *(Oct 2024 - Present)*
-* 🏆 **BSc in Computer Science** *(2020 - 2024)*
-* 📱 \**Built 7+ production-ready apps across Android/iOS/Flutter*
-
+<div align="left">
+  <p>🚀 <strong>ITI Professional Diploma in Mobile Development</strong> <em>(Oct 2024 - Present)</em></p>
+  <p>🏆 <strong>BSc in Computer Science</strong> <em>(2020 - 2024)</em></p>
+  <p>📱 <em>Built 7+ production-ready apps across Android/iOS/Flutter</em></p>
+</div>
