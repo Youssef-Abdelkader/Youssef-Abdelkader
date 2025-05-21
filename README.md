@@ -87,10 +87,10 @@
 ```mermaid
 pie
     title Code Distribution
-    "Kotlin" : 90
+    "Kotlin" : 95
     "Java" : 90
     "Swift" : 60
-    "Dart" : 50
+    "Dart" : 80
 ```
 
 ---
