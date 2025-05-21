@@ -1,3 +1,4 @@
+
 ```markdown
 # Youssef Abdelkader Allam  
 
@@ -103,3 +104,5 @@ pie
 - 🔄 **Cross-Platform Mindset**: Build once, deploy everywhere philosophy  
 - 🚀 **Tech Explorer**: Constantly learning bleeding-edge mobile technologies  
 - 🎨 **UI/UX Sensibility**: Code that looks as good as it performs  
+```
+
