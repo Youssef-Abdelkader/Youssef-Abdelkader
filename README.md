@@ -5,13 +5,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Your+ideas%2C+coded+to+life." alt="Typing animation" />
 </p>
+  <br/>
 
-## 🌟 Connect With Me
-[... rest of your README ...]
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Youssef-Abdelkader&color=blueviolet" alt="Profile Views"/>
   <br/>
-## 🌟 **Connect With Me**  
+
+## 🌟 Connect With Me
 <p align="center">
   <a href="http://www.linkedin.com/in/youssef--abdelkader" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -54,11 +54,11 @@
 ```mermaid
 pie
     title Code Distribution
-    "Kotlin" : 35
-    "Java" : 25
-    "Swift" : 20
-    "Dart" : 15
-    "Python" : 5
+    "Kotlin" : 90
+    "Java" : 90
+    "Swift" : 60
+    "Dart" : 80
+    
 ```
 
 ---
