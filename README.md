@@ -19,9 +19,6 @@
   <a href="mailto:Youssef.allam366@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Youssef-Abdelkader" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.hackerrank.com/profile/allamyoussef360" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
@@ -68,6 +65,8 @@
   <img src="https://img.shields.io/badge/SOLID-5E17EB?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID"/>
   <img src="https://img.shields.io/badge/REST_API-FF6D00?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/MVVM-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/MVP-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVP"/>
+  <img src="https://img.shields.io/badge/MVC-5E17EB?style=for-the-badge&logo=arcgis&logoColor=white" alt="MVC"/>
   <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/>
   <img src="https://img.shields.io/badge/Unit_Testing-388E3C?style=for-the-badge&logo=testing-library&logoColor=white" alt="Unit Testing"/>
 </div>
@@ -82,3 +81,34 @@ pie
     "Java" : 90
     "Swift" : 60
     "Dart" : 80
+🎯 Career Highlights
+<div align="center">
+🚀	ITI Professional Diploma in Mobile Development	*(Oct 2024 - Present)*
+🏆	BSc in Computer Science	*(2020 - 2024)*
+📱	Built 7+ production-ready apps across Android/iOS/Flutter	
+</div>
+flowchart LR
+    A[Android] --> B[Jetpack Compose]
+    A --> C[XML]
+    A --> D[RxJava]
+    A --> E[Coroutines]
+    A --> F[Dagger Hilt]
+    
+    G[iOS] --> H[SwiftUI]
+    G --> I[Combine]
+    G --> J[RxSwift]
+    G --> K[Dependency Injection]
+    
+    L[Cross-Platform] --> M[Flutter]
+    L --> N[Firebase]
+    L --> O[Dart]
+    
+    P[Core Concepts] --> Q[OOP]
+    P --> R[SOLID]
+    P --> S[REST APIs]
+    P --> T[Data Structures]
+    P --> U[Design Patterns]
+    
+    V[Methodologies] --> W[Agile]
+    V --> X[CI/CD]
+    V --> Y[Unit Testing]
