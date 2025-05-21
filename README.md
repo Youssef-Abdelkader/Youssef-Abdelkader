@@ -1,5 +1,5 @@
 # Youssef Abdelkader Allam  
-### ✨ *"Your ideas, coded to life."* ✨  
+
 `Mobile Developer` | `Tech Innovator` | `Cross-Platform Expert`  
 
 <p align="center">
