@@ -89,7 +89,7 @@ pie
     title Code Distribution
     "Kotlin" : 90
     "Java" : 90
-    "Swift" : 30
+    "Swift" : 60
     "Dart" : 50
 ```
 
